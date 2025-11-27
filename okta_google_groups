@@ -26,4 +26,6 @@
     {"admin_group_mail": "de-integrations.admin@org.prewave.ai", "regular_group_name": "Data Engineering Integrations", "admin_group_name": "Data Engineering Integrations Admin", "admin_okta_group_id": "00gq5jtrlqHJ0eE3E417", "regular_okta_group_id": "00gq5jv928UimdAhW417"},
     {"admin_group_mail": "de-core.admin@org.prewave.ai", "regular_group_name": "Data Engineering Core", "admin_group_name": "Data Engineering Core Admin", "admin_okta_group_id": "00gq5jvpn7ivsBXWi417", "regular_okta_group_id": "00gq5k0mz8Rmwki9K417"},
     {"admin_group_mail": "di-management.admin@org.prewave.ai", "regular_group_name": "Data Intelligence Management", "admin_group_name": "Data Intelligence Management Admin", "admin_okta_group_id": "00gq5ju1x6cI1dUeh417", "regular_okta_group_id": "00gq5k0c6i3bOr7YG417"},
-    {"admin_group_mail": "de-leads.admin@org.prewave.ai", "regular_group_name": "Data Engineering Leads", "admin_group_name": "Data Engineering Leads Admin", "admin_okta_group_id": "00gq5k0j7nMwiHdG3417", "regular_okta_group_id": "00gq5jwdk3uunxoQn417"}
+    {"admin_group_mail": "de-leads.admin@org.prewave.ai", "regular_group_name": "Data Engineering Leads", "admin_group_name": "Data Engineering Leads Admin", "admin_okta_group_id": "00gq5k0j7nMwiHdG3417", "regular_okta_group_id": "00gq5jwdk3uunxoQn417"},
+    {"admin_group_mail": "nw-dev.admin@org.prewave.ai", "regular_group_name": "Network Developers", "admin_group_name": "Network Dev Admins", "admin_okta_group_id": "00gq5k0j7nMwiHdG3417", "regular_okta_group_id": "00gs8ty2914RB5jGB417"}
+
